@@ -1,6 +1,6 @@
 {
   "name": "react-native-3d-carousel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A 3D carousel component for React Native with smooth animations and gestures",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
