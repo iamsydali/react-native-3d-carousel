@@ -157,7 +157,6 @@ const Carousel3D = (props: Props) => {
       onMoveShouldSetPanResponder: () => true,
       onMoveShouldSetPanResponderCapture: () => true,
       onPanResponderGrant: () => {
-        console.log('onPanResponderGrant ::')
         animatedValue.stopAnimation();
         animatedValue.setOffset({
           x: lastValue.x,
