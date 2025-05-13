@@ -1,15 +1,16 @@
 # React Native 3D Carousel
 
-A beautiful 3D carousel component for React Native with smooth animations and gestures.
+A beautiful 3D cube carousel component for React Native (Like used in instagram stories).
 
-## Features
+> 💡 We're actively looking for feedback and contributions! (Add in issues)
 
-- 3D perspective animations
-- Smooth gesture handling
-- Support for both horizontal and vertical scrolling
-- Customizable dimensions
-- Loop support
-- Callback after swipe events
+## Demo
+
+![Working Demo](https://github.com/iamsydali/iamsydali-public/blob/master/3d-carousel-demo.gif)
+
+## Live Demo
+
+Try it out on Expo Snack: [Open Demo](https://snack.expo.dev/@iamsydali/react-native-3d-carousel)
 
 ## Installation
 
