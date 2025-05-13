@@ -4,7 +4,7 @@ A beautiful 3D cube carousel component for React Native (Like used in instagram 
 
 ## Demo
 
-![Working Demo](https://github.com/iamsydali/iamsydali-public/blob/master/3d-crousel-demo.gif)
+![Working Demo](https://github.com/iamsydali/iamsydali-public/blob/master/3d-carousel-demo.gif)
 
 ## Installation
 
